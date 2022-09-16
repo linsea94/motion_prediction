@@ -1,0 +1,2 @@
+frame_id,agent_id,pos_x,pos_y,vel_x,vel_y,scene_id,label,timestamp
+1146,20,10.5401,7.4454875,-1.5096625,0.25572681,0,pedestrian,76.4
